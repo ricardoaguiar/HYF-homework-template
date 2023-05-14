@@ -1,9 +1,10 @@
 ### Example user template template
 ### Example user template
 
-databases/*
+databases/
+/databases/
 git/*
-html-css/week2
+/html-css/week2
 html-css/week3
 javascript/*
 nodejs/*
@@ -106,7 +107,6 @@ web_modules/
 
 # Next.js build output
 .next
-out
 
 # Nuxt.js build / generate output
 .nuxt
@@ -123,7 +123,6 @@ dist
 
 # vuepress v2.x temp and cache directory
 .temp
-.cache
 
 # Docusaurus cache and generated files
 .docusaurus
